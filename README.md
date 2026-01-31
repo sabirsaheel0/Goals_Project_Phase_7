@@ -1,3 +1,12 @@
+Discord Screenshot
+<img width="1518" height="858" alt="Screenshot 2026-01-29 230400" src="https://github.com/user-attachments/assets/22f1e92e-78b0-4f63-8693-6d8fac7d48f8" />
+
+Alertmanager
+<img width="1918" height="957" alt="Screenshot 2026-01-29 225035" src="https://github.com/user-attachments/assets/a83ef8a1-8445-4a88-86e0-52fc8b480b86" />
+
+
+
+
 # phase 6 monitor everything
 ## Environment
 this edition is tested on 
